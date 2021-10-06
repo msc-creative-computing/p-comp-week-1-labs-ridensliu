@@ -20,4 +20,4 @@ In this work, the blue LED light simulates each vibration of the altar, and the 
 “When the world was created, the Internet god first created a keyboard and a computer connected to the network cable.”
 
 “Global warming, earthquakes, hurricanes, and other natural disasters are caused by people in reality who consume too many real resources and fail to devote themselves to the online world.”
-![lab2-spaceship_interface](https://user-images.githubusercontent.com/91953262/136190594-b8b4f62b-f214-4f9a-a527-20e53bedc5c9.png)
+
